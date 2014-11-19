@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.teddy.es_tify.StartPage"
+    tools:ignore="MergeRootFrame" >
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dropdownCourses"
+        android:layout_gravity="center_horizontal|top"
+        android:spinnerMode="dropdown"
+        android:text="@string/hello_world"
+        android:entries="@array/dropdownCourses_array"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ENTER"
+        android:id="@+id/buttonEnter"
+        android:layout_gravity="center"
+        android:onClick="enter"
+        />
+</FrameLayout>

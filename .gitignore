@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+=======
+=======
+>>>>>>> 6aafb056ade76727674c99d5cf71ad834e9c7500
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> 6aafb056ade76727674c99d5cf71ad834e9c7500

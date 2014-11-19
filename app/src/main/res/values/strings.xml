@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ES-tify</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">start</string>
+    <string name="title_activity_start_page">StartPage</string>
+    <string name="about">ES-tify means Event and Seminars Notification. This application
+                         will let you know what upcoming events or seminars will be held.
+                         It will also display the informations about them.</string>
+
+    <string-array name="dropdownCourses_array">
+        <item>Enter a Course..</item>
+        <item>BS Civil Engineering</item>
+        <item>BS Chemical Engineering</item>
+        <item>BS Computer Science</item>
+        <item>BS Electrical Engineering</item>
+        <item>BS Electronics Engineering</item>
+        <item>BS Information Technology</item>
+        <item>BS Information Systems</item>
+        <item>BS Industrial Engineering</item>
+        <item>BS Mechanical Engineering</item>
+    </string-array>
+
+    <string name="title_activity_enter_page">EnterPage</string>
+    <string name="title_activity_about_page">AboutPage</string>
+    <string name="title_activity_credits">Credits</string>
+    <string name="title_activity_credit_page">CreditPage</string>
+    <string name="title_activity_information_page">InformationPage</string>
+    <string name="title_activity_informations_page">InformationsPage</string>
+    <string name="title_activity_information_page2">information_page2</string>
+    <string name="title_activity_information_page3">information_page3</string>
+
+</resources>
